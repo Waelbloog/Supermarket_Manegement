@@ -35,7 +35,7 @@
     "path": "^0.12.7",
     "print-js": "^1.0.63",
     "socket.io": "^2.3.0",
-    "standard": "^17.0.0",
+    "standard": "^17.1.0",
     "sweetalert2": "^11.4.8",
     "underscore": "^1.13.6",
     "xmlhttprequest": "^1.8.0"
