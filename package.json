@@ -25,7 +25,7 @@
     "http": "0.0.0",
     "https": "^1.0.0",
     "is-port-reachable": "^2.0.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.7.0",
     "jsbarcode": "^3.11.0",
     "jspdf": "^2.5.1",
     "macaddress": "^0.2.9",
