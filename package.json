@@ -27,7 +27,7 @@
     "is-port-reachable": "^2.0.1",
     "jquery": "^3.4.1",
     "jsbarcode": "^3.11.0",
-    "jspdf": "^2.5.1",
+    "jspdf": "^3.0.2",
     "macaddress": "^0.2.9",
     "moment": "^2.24.0",
     "multer": "1.4.5-lts.1",
